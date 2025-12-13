@@ -30,7 +30,7 @@ wails build
 
 ## 使用
 
-首先你需要一个浏览器插件（这里推荐谷歌浏览器）：https://cookie-editor.com/（cookie-editor）。然后登录网站。登录网页后，在首页获取cookie，导出成json。
+首先你需要一个浏览器插件（这里推荐谷歌浏览器）：https://cookie-editor.com（cookie-editor）。然后登录网站。登录网页后，在首页获取cookie，导出成json。
 
 然后在cookies文件夹内，cd是comic-days的cookie文件，ps是pocket shonenmagazine的cookie文件，选择对应的cookie文件，将json化的cookie粘贴到cookie文件里面，保存即可使用。
 
