@@ -14,7 +14,7 @@
 
 本项目使用wails v2.11构建，请自己配置好wails v2.11
 
-clone该项目到本地，在main.go里将frontend.rar展开。
+clone该项目到本地，在main.go所在的文件节哀里，将frontend.rar展开。
 
 调试模式编译：
 
