@@ -30,7 +30,7 @@ wails build
 
 ## 使用
 
-首先你需要一个浏览器插件（这里推荐谷歌浏览器）：https://cookie-editor.com。
+首先你需要一个浏览器插件（这里推荐谷歌浏览器）：https://cookie-editor.com
  
 然后登录网站。登录网页后，在首页获取cookie，导出成json。
 
