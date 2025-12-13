@@ -39,3 +39,13 @@ wails build
 ## 交流
 
 本项目有且仅有一个qq交流群：1076094887。欢迎加入。一起探讨漫画或者技术，未来项目的第一消息将在群里公布。
+
+## 感谢
+
+感谢以下项目，帮助我以及启发我开发我这个项目：
+
+https://github.com/manga-download/haruneko
+
+https://github.com/MrShitFox/ComicDaysGoDownloader
+
+
