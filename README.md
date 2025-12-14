@@ -36,6 +36,8 @@ wails build
 
 然后在cookies文件夹内，cd是comic-days的cookie文件，ps是pocket shonenmagazine的cookie文件，选择对应的cookie文件，将json化的cookie粘贴到cookie文件里面，保存即可使用。
 
+ps：如果不想使用cookie，直接在对应的cookie的json文件里写一个空的[]即可。
+
 ## 交流
 
 本项目有且仅有一个qq交流群：1076094887。欢迎加入。一起探讨漫画或者技术，未来项目的第一消息将在群里公布。
